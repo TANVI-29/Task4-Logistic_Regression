@@ -22,7 +22,7 @@ The sigmoid function maps any real number into a value between 0 and 1 (probabil
 \]
 
 ### Sigmoid Plot
-![Sigmoid Function](Screenshots/sigmoid_function.png)
+![Sigmoid Function](Screenshots/sigmoid_function.PNG)
 
 ## Requirements
 - Python 3
